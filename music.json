@@ -167,7 +167,18 @@
 	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
 	}
 
-
+,
+{ "title" : "💥 قل هذه سبيلي ←" ,
+	  "album" : "rahili",
+	  "artist" : "    الشيخ د. سليمان سليم الرحيلي    ",
+	  "genre" :  "   الشيخ د. سليمان سليم الرحيلي",
+	  "source" : "qal_hthey_sabeely.mp3",
+	  "image" : "rahili.jpeg",
+	  "trackNumber" : 6,
+	  "totalTrackCount" : 50,
+	  "duration" : 2700 ,
+	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
+	}
 
 
 
