@@ -259,12 +259,12 @@
 	  "album" : "badr",
 	  "artist" : "    الشيخ د. عبد الرزاق البدر    ",
 	  "genre" :  "   الشيخ د. عبد الرزاق البدر",
-	  "source" : "007_096n.mp3",
+	  "source" : "uploads/007_096n.mp3",
 	  "image" : "badr.png",
 	  "trackNumber" : 8,
 	  "totalTrackCount" : 50,
 	  "duration" : 1021 ,
-	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master/uploads"
+	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
 	}
  
 
