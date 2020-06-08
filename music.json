@@ -141,6 +141,18 @@
 	  "duration" : 3600 ,
 	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
 	}
+,
+{ "title" : "💥 النبي صلى الله عليه وسلم في القرآن ←" ,
+	  "album" : "rahili",
+	  "artist" : "    الشيخ سليمان سليم الرحيلي    ",
+	  "genre" :  "   الشيخ سليمان سليم الرحيلي",
+	  "source" : "nabi_saw_fil_quran.mp3",
+	  "image" : "rahili.jpeg",
+	  "trackNumber" : 5,
+	  "totalTrackCount" : 50,
+	  "duration" : 3600 ,
+	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
+	}
 ]}
 
 
