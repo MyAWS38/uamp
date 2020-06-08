@@ -255,16 +255,16 @@
 	}
 
 ,
-{ "title" : "💥  Test# from Nadir   ←" ,
+{ "title" : "💥  غيرة الله    ←" ,
 	  "album" : "badr",
 	  "artist" : "    الشيخ د. عبد الرزاق البدر    ",
 	  "genre" :  "   الشيخ د. عبد الرزاق البدر",
-	  "source" : "uk.mp3",
-	  "image" : "badr.png",
-	  "trackNumber" : 7,
+	  "source" : "007_096n.mp3",
+	  "image" : "uploads/badr.png",
+	  "trackNumber" : 8,
 	  "totalTrackCount" : 50,
-	  "duration" : 1206 ,
-	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master/uploads"
+	  "duration" : 1020 ,
+	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
 	}
  
 
