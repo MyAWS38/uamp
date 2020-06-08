@@ -198,7 +198,7 @@
 	  "trackNumber" : 2,
 	  "totalTrackCount" : 50,
 	  "duration" : 1260 ,
-	  "site" : "https://www.al-badr.net/download/esound/khutob"
+	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
 	}
 
 ,
@@ -211,7 +211,7 @@
 	  "trackNumber" : 3,
 	  "totalTrackCount" : 50,
 	  "duration" : 1140 ,
-	  "site" : "https://www.al-badr.net/download/esound/khutob"
+	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
 	}
 
 
@@ -220,12 +220,12 @@
 	  "album" : "badr",
 	  "artist" : "    الشيخ د. عبد الرزاق البدر    ",
 	  "genre" :  "   الشيخ د. عبد الرزاق البدر",
-	  "source" : "007_003.mp3",
+	  "source" : "007_020.mp3",
 	  "image" : "badr.png",
 	  "trackNumber" : 4,
 	  "totalTrackCount" : 50,
 	  "duration" : 1320 ,
-	  "site" : "https://www.al-badr.net/download/esound/khutob"
+	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
 	}
 
 
