@@ -227,7 +227,18 @@
 	  "duration" : 1320 ,
 	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
 	}
-
+,
+{ "title" : "💥  فتنة المال   ←" ,
+	  "album" : "badr",
+	  "artist" : "    الشيخ د. عبد الرزاق البدر    ",
+	  "genre" :  "   الشيخ د. عبد الرزاق البدر",
+	  "source" : "007_052.mp3",
+	  "image" : "badr.png",
+	  "trackNumber" : 5,
+	  "totalTrackCount" : 50,
+	  "duration" : 1200 ,
+	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
+	}
 
 
 
