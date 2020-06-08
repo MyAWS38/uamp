@@ -254,7 +254,18 @@
 	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
 	}
 
-
+,
+{ "title" : "💥  Test# from Nadir   ←" ,
+	  "album" : "badr",
+	  "artist" : "    الشيخ د. عبد الرزاق البدر    ",
+	  "genre" :  "   الشيخ د. عبد الرزاق البدر",
+	  "source" : "uk.mp3",
+	  "image" : "badr.png",
+	  "trackNumber" : 7,
+	  "totalTrackCount" : 50,
+	  "duration" : 1206 ,
+	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master/uploads"
+	}
  
 
 
