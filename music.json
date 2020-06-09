@@ -286,13 +286,27 @@
 	  "artist" : "    محمد المدخلي    ",
 	  "genre" :  "   # مقاطع سريـــعة #   مجموعـــــــة من العلماء ",
 	  "source" : "shk_mohd_hadi_al9eeq_3ind_tilawat_alquran.mp3",
-	  "image" : "madkhali.png",
-	  "trackNumber" : 9,
+	  "image" : "madkhali.jpeg",
+	  "trackNumber" : 1,
 	  "totalTrackCount" : 50,
 	  "duration" : 75 ,
 	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
 	}
 
+	
+,
+{ "title" : "💥  بر الواليدن ولو كانا من الكفار    ←" ,
+	  "album" : "makati3",
+	  "artist" : "    محمد المدخلي    ",
+	  "genre" :  "   # مقاطع سريـــعة #   مجموعـــــــة من العلماء ",
+	  "source" : "shk_mohd_hadi_al9eeq_3ind_tilawat_alquran.mp3",
+	  "image" : "madkhali.jpeg",
+	  "trackNumber" : 2,
+	  "totalTrackCount" : 50,
+	  "duration" : 300 ,
+	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
+	}
+	
 
 
 
