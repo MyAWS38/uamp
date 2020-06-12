@@ -482,7 +482,7 @@
 
 
 ,
-{ "title" : "💥  1 المتن: الولاء والبراء  ←" ,
+{ "title" : "💥   المتن 1 : الولاء والبراء  ←" ,
 	  "album" : "matn",
 	  "artist" : "   الشيخ صالح بن سعد السحيمي    ",
 	  "genre" :  "   الشيخ صالح بن سعد السحيمي ",
@@ -490,11 +490,11 @@
 	  "image" : "yemen.png",
 	  "trackNumber" : 1,
 	  "totalTrackCount" : 50,
-	  "duration" : 2580 ,
+	  "duration" : 6600 ,
 	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
 	}
 ,
-{ "title" : "💥  2 المتن: الولاء والبراء  ←" ,
+{ "title" : "💥   المتن 2 : الولاء والبراء  ←" ,
 	  "album" : "matn",
 	  "artist" : "   الشيخ صالح بن سعد السحيمي    ",
 	  "genre" :  "   الشيخ صالح بن سعد السحيمي ",
@@ -502,7 +502,7 @@
 	  "image" : "yemen.png",
 	  "trackNumber" : 2,
 	  "totalTrackCount" : 50,
-	  "duration" : 2580 ,
+	  "duration" : 4140 ,
 	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
 	}
 
