@@ -6,7 +6,7 @@
 	  "source" : "mad01.mp3",
 	  "image" : "madkhali.jpeg",
 	  "trackNumber" : 1,
-	  "totalTrackCount" : 4,
+	  "totalTrackCount" : 50,
 	  "duration" : 1380 ,
 	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
 	} ,
@@ -17,7 +17,7 @@
 	  "source" : "corona.mp3",
 	  "image" : "madkhali.jpeg",
 	  "trackNumber" : 2,
-	  "totalTrackCount" : 5,
+	  "totalTrackCount" : 50,
 	  "duration" : 1680 ,
 	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
 	} 
@@ -29,7 +29,7 @@
 	  "source" : "Sm3ha.Com.mp3",
 	  "image" : "madkhali.jpeg",
 	  "trackNumber" : 3,
-	  "totalTrackCount" : 5,
+	  "totalTrackCount" : 50,
 	  "duration" : 240 ,
 	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
 	} ,
@@ -40,7 +40,7 @@
 	  "source" : "bouka.mp3",
 	  "image" : "madkhali.jpg",
 	  "trackNumber" : 4,
-	  "totalTrackCount" : 5,
+	  "totalTrackCount" : 50,
 	  "duration" : 300 ,
 	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
 	} 
@@ -52,11 +52,22 @@
 	  "source" : "ahmed.mp3",
 	  "image" : "madkhali.jpg",
 	  "trackNumber" : 5,
-	  "totalTrackCount" : 5,
+	  "totalTrackCount" : 50,
 	  "duration" : 6420 ,
 	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
 	} 
-
+,
+{ "title" : "💥الإستعداد للآخرة وخطر الكذب على طالب العلم  ←" ,
+	  "album" : "Mohamed",
+	  "artist" : "    الشيخ د. محمد بن هادي المدخلي    ",
+	  "genre" :  "   الشيخ د. محمد بن هادي المدخلي",
+	  "source" : "tan-5834-41.mp3",
+	  "image" : "madkhali.jpg",
+	  "trackNumber" : 6,
+	  "totalTrackCount" : 50,
+	  "duration" : 1320 ,
+	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
+	} 
 
 
 
