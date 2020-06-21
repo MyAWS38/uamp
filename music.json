@@ -269,7 +269,18 @@
 	  "duration" : 1320 ,
 	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
 	}
-
+ ,
+{ "title" : "💥  لا تخاطر بدينك  ←" ,
+	  "album" : "ghayth",
+	  "artist" : "    الشيخ د. محمد غيث    ",
+	  "genre" :  "   الشيخ د. محمد غيث",
+	  "source" : "la-tokhatir-bi-dinikee-22-11-2018-.mp3",
+	  "image" : "ghayth.jpg",
+	  "trackNumber" : 13 ,
+	  "totalTrackCount" : 50,
+	  "duration" : 2760 ,
+	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
+	}
 
 
 
