@@ -233,6 +233,44 @@
 	  "duration" : 4200 ,
 	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
 	}
+ ,
+{ "title" : "💥  أعطي كل ذي حق حقه  ←" ,
+	  "album" : "ghayth",
+	  "artist" : "    الشيخ د. محمد غيث    ",
+	  "genre" :  "   الشيخ د. محمد غيث",
+	  "source" : "a3ti_kulla_zee_haqin_haqah.mp3",
+	  "image" : "ghayth.jpg",
+	  "trackNumber" : 11 ,
+	  "totalTrackCount" : 50,
+	  "duration" : 1380 ,
+	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
+	}
+ ,
+{ "title" : "💥  خلق التواضع  ←" ,
+	  "album" : "ghayth",
+	  "artist" : "    الشيخ د. محمد غيث    ",
+	  "genre" :  "   الشيخ د. محمد غيث",
+	  "source" : "khalqul_tawadu3.mp3",
+	  "image" : "ghayth.jpg",
+	  "trackNumber" : 12 ,
+	  "totalTrackCount" : 50,
+	  "duration" : 1500 ,
+	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
