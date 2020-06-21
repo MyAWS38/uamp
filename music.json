@@ -160,7 +160,30 @@
 	  "duration" : 6200 ,
 	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
 	} 
-
+ ,
+{ "title" : "💥 رجل من أهل الجنة ←" ,
+	  "album" : "ghayth",
+	  "artist" : "    الشيخ د. محمد غيث    ",
+	  "genre" :  "   الشيخ د. محمد غيث",
+	  "source" : "al_afu_khalq_mumin.mp3",
+	  "image" : "ghayth.jpg",
+	  "trackNumber" : 5,
+	  "totalTrackCount" : 50,
+	  "duration" : 1200 ,
+	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
+	} 
+ ,
+{ "title" : "💥 رجل من أهل الجنة ←" ,
+	  "album" : "ghayth",
+	  "artist" : "    الشيخ د. محمد غيث    ",
+	  "genre" :  "   الشيخ د. محمد غيث",
+	  "source" : "3ajaban-li-amr-almomin_25-10-2019.mp3",
+	  "image" : "ghayth.jpg",
+	  "trackNumber" : 6,
+	  "totalTrackCount" : 50,
+	  "duration" : 960 ,
+	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
+	} 
 
 
 
