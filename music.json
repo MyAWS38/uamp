@@ -196,6 +196,43 @@
 	  "duration" : 1900 ,
 	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
 	}
+ ,
+{ "title" : "💥 الأخوان أبو الدرداء وسلمان ←" ,
+	  "album" : "ghayth",
+	  "artist" : "    الشيخ د. محمد غيث    ",
+	  "genre" :  "   الشيخ د. محمد غيث",
+	  "source" : "ikhwan_abu_darda_wa_salman.mp3",
+	  "image" : "ghayth.jpg",
+	  "trackNumber" : 8,
+	  "totalTrackCount" : 50,
+	  "duration" : 2040 ,
+	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
+	}
+ ,
+{ "title" : "💥  دروس وفضائل من سيرة عبدالله بن مسعود  ←" ,
+	  "album" : "ghayth",
+	  "artist" : "    الشيخ د. محمد غيث    ",
+	  "genre" :  "   الشيخ د. محمد غيث",
+	  "source" : "dros_wafadael_min_sirat_sahabi_abdallah_bin_masood.mp3",
+	  "image" : "ghayth.jpg",
+	  "trackNumber" : 9,
+	  "totalTrackCount" : 50,
+	  "duration" : 1300 ,
+	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
+	}
+
+ ,
+{ "title" : "💥  السنة وحوضها المورود  ←" ,
+	  "album" : "ghayth",
+	  "artist" : "    الشيخ د. محمد غيث    ",
+	  "genre" :  "   الشيخ د. محمد غيث",
+	  "source" : "sunnat_wahawduha_al_mawrood.mp3",
+	  "image" : "ghayth.jpg",
+	  "trackNumber" : 10,
+	  "totalTrackCount" : 50,
+	  "duration" : 4200 ,
+	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
+	}
 
 
 
