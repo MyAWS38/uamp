@@ -173,7 +173,7 @@
 	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
 	} 
  ,
-{ "title" : "💥 رجل من أهل الجنة ←" ,
+{ "title" : "💥 عجبا لامر المؤمن ←" ,
 	  "album" : "ghayth",
 	  "artist" : "    الشيخ د. محمد غيث    ",
 	  "genre" :  "   الشيخ د. محمد غيث",
@@ -184,7 +184,18 @@
 	  "duration" : 960 ,
 	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
 	} 
-
+ ,
+{ "title" : "💥 السنة سفينة نوح ←" ,
+	  "album" : "ghayth",
+	  "artist" : "    الشيخ د. محمد غيث    ",
+	  "genre" :  "   الشيخ د. محمد غيث",
+	  "source" : "suna_safinatu_nooh.mp3",
+	  "image" : "ghayth.jpg",
+	  "trackNumber" : 7,
+	  "totalTrackCount" : 50,
+	  "duration" : 1900 ,
+	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
+	}
 
 
 
