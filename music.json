@@ -672,27 +672,27 @@
 
 
 ,
-{ "title" : "💥  شرح كتاب عمدة الفقه   1←" ,
-	  "album" : "chetri",
-	  "artist" : "    الشيخ سعد الشثري    ",
-	  "genre" :  "    الشيخ سعد الشثري ",
-	  "source" : "Alshathry_3mdto_Alf8_01.mp3",
-	  "image" : "chetri.jpg",
+{ "title" : "💥  كتاب الجهاد من عمدة الفقه 1 ←" ,
+	  "album" : "rajhi",
+	  "artist" : "    الإمام ابن قدامة    ",
+	  "genre" :  "    الإمام ابن قدامة ",
+	  "source" : "oumdat_jih01.mp3",
+	  "image" : "chetri1.jpg",
 	  "trackNumber" : 1,
 	  "totalTrackCount" : 50,
-	  "duration" : 1680 ,
+	  "duration" : 5100 ,
 	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
 	}
 ,
 { "title" : "💥  شرح كتاب عمدة الفقه   2←" ,
-	  "album" : "chetri",
-	  "artist" : "    الشيخ سعد الشثري    ",
-	  "genre" :  "    الشيخ سعد الشثري ",
-	  "source" : "Alshathry_3mdto_Alf8_02.mp3",
-	  "image" : "chetri.jpg",
+	  "album" : "rajhi",
+	  "artist" : "    الإمام ابن قدامة    ",
+	  "genre" :  "    الإمام ابن قدامة ",
+	  "source" : "oumdat_jih02.mp3",
+	  "image" : "chetri2.jpg",
 	  "trackNumber" : 2,
 	  "totalTrackCount" : 50,
-	  "duration" : 1560 ,
+	  "duration" : 2600 ,
 	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
 	}
 
