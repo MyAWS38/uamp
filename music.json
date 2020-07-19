@@ -281,11 +281,56 @@
 	  "duration" : 2760 ,
 	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
 	}
+ ,
+{ "title" : "💥  نعمة الوقت   ←" ,
+	  "album" : "ghayth",
+	  "artist" : "    الشيخ د. محمد غيث    ",
+	  "genre" :  "   الشيخ د. محمد غيث",
+	  "source" : "sh-mohamed-ghaith-ni3mato-aloqt.mp3",
+	  "image" : "ghayth.jpg",
+	  "trackNumber" : 14 ,
+	  "totalTrackCount" : 50,
+	  "duration" : 1200 ,
+	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
+	}
+ ,
+{ "title" : "💥  مكانة العلماء   ←" ,
+	  "album" : "ghayth",
+	  "artist" : "    الشيخ د. محمد غيث    ",
+	  "genre" :  "   الشيخ د. محمد غيث",
+	  "source" : "sh_d_mohamed_mkanat_al3olamaa.mp3",
+	  "image" : "ghayth.jpg",
+	  "trackNumber" : 15 ,
+	  "totalTrackCount" : 50,
+	  "duration" : 1380 ,
+	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
+	}
 
 
-
-
-
+ ,
+{ "title" : "💥  مكانة عيسى عليه السلام في القرآن   ←" ,
+	  "album" : "ghayth",
+	  "artist" : "    الشيخ د. محمد غيث    ",
+	  "genre" :  "   الشيخ د. محمد غيث",
+	  "source" : "sh-d-mohamed-ghaith-makant_3ysaFy8r2an.mp3",
+	  "image" : "ghayth.jpg",
+	  "trackNumber" : 16 ,
+	  "totalTrackCount" : 50,
+	  "duration" : 1400 ,
+	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
+	}
+ ,
+{ "title" : "💥   قلوبنا مع أهل الشام    ←" ,
+	  "album" : "ghayth",
+	  "artist" : "    الشيخ د. محمد غيث    ",
+	  "genre" :  "   الشيخ د. محمد غيث",
+	  "source" : "sh_d_mohamed_quloobuna_ma3a_ahl_asham.mp3",
+	  "image" : "ghayth.jpg",
+	  "trackNumber" : 17 ,
+	  "totalTrackCount" : 50,
+	  "duration" : 1200 ,
+	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
+	}
 
 
 
