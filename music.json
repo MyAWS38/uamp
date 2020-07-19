@@ -320,7 +320,7 @@
 	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
 	}
  ,
-{ "title" : "💥   قلوبنا مع أهل الشام  ←" ,
+{ "title" : "💥   قلوبنا مع أهل الشام ←" ,
 	  "album" : "ghayth",
 	  "artist" : "    الشيخ د. محمد غيث    ",
 	  "genre" :  "   الشيخ د. محمد غيث",
@@ -334,7 +334,7 @@
 
 
  ,
-{ "title" : "💥   فضل العلم والعلماء   ←" ,
+{ "title" : "💥   فضل العلم والعلماء ←" ,
 	  "album" : "ghayth",
 	  "artist" : "    الشيخ د. محمد غيث    ",
 	  "genre" :  "   الشيخ د. محمد غيث",
@@ -347,7 +347,7 @@
 	}
 
  ,
-{ "title" : "💥    فضل العلم   ←" ,
+{ "title" : "💥    فضل العلم ←" ,
 	  "album" : "ghayth",
 	  "artist" : "    الشيخ د. محمد غيث    ",
 	  "genre" :  "   الشيخ د. محمد غيث",
@@ -374,7 +374,7 @@
 
 
  ,
-{ "title" : "💥      عجبا لأمر المؤمن  ←" ,
+{ "title" : "💥      عجبا لأمر المؤمن ←" ,
 	  "album" : "ghayth",
 	  "artist" : "    الشيخ د. محمد غيث    ",
 	  "genre" :  "   الشيخ د. محمد غيث",
@@ -386,7 +386,7 @@
 	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
 	}
  ,
-{ "title" : "💥       على ضياع العلم فليبك من كان باكيا   ←" ,
+{ "title" : "💥       على ضياع العلم فليبك من كان باكيا ←" ,
 	  "album" : "ghayth",
 	  "artist" : "    الشيخ د. محمد غيث    ",
 	  "genre" :  "   الشيخ د. محمد غيث",
@@ -410,7 +410,7 @@
 	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
 	}
  ,
-{ "title" : "💥       حضارة الإسلام في السلم والحرب   ←" ,
+{ "title" : "💥       حضارة الإسلام في السلم والحرب ←" ,
 	  "album" : "ghayth",
 	  "artist" : "    الشيخ د. محمد غيث    ",
 	  "genre" :  "   الشيخ د. محمد غيث",
@@ -421,6 +421,34 @@
 	  "duration" : 1200 ,
 	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
 	}
+
+ ,
+{ "title" : "💥       التحذير من التنظيمات الإرهابية ←" ,
+	  "album" : "ghayth",
+	  "artist" : "    الشيخ د. محمد غيث    ",
+	  "genre" :  "   الشيخ د. محمد غيث",
+	  "source" : "sh-d-mohamed-ghaith-altahtheer-min-altandemaat-alerhabiya.mp3",
+	  "image" : "ghayth.jpg",
+	  "trackNumber" : 25 ,
+	  "totalTrackCount" : 50,
+	  "duration" : 1250 ,
+	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
+	}
+
+ ,
+{ "title" : "💥        الأنفس وحرمتها-التفجير والتقتيل ←" ,
+	  "album" : "ghayth",
+	  "artist" : "    الشيخ د. محمد غيث    ",
+	  "genre" :  "   الشيخ د. محمد غيث",
+	  "source" : "sh-d-mohamed-ghaithenh-alanfas-7rmtha-tfger.mp3",
+	  "image" : "ghayth.jpg",
+	  "trackNumber" : 26 ,
+	  "totalTrackCount" : 50,
+	  "duration" : 1440 ,
+	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
+	}
+
+
 
 
 
