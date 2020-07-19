@@ -397,7 +397,18 @@
 	  "duration" : 1380 ,
 	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
 	}
-
+ ,
+{ "title" : "💥        طاعة ولاة أمر المسلمين        ←" ,
+	  "album" : "ghayth",
+	  "artist" : "    الشيخ د. محمد غيث    ",
+	  "genre" :  "   الشيخ د. محمد غيث",
+	  "source" : "sh-d-mohamed-ghaith-taht-oalat-amar-almaslamean.mp3",
+	  "image" : "ghayth.jpg",
+	  "trackNumber" : 23 ,
+	  "totalTrackCount" : 50,
+	  "duration" : 1500 ,
+	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
+	}
 
 
 
