@@ -409,7 +409,18 @@
 	  "duration" : 1500 ,
 	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
 	}
-
+ ,
+{ "title" : "💥       حضارة الإسلام في السلم والحرب    ←" ,
+	  "album" : "ghayth",
+	  "artist" : "    الشيخ د. محمد غيث    ",
+	  "genre" :  "   الشيخ د. محمد غيث",
+	  "source" : "sh-d-mohamed-ghaithenh-7dhrh-eslam-fe-slm-7rb.mp3",
+	  "image" : "ghayth.jpg",
+	  "trackNumber" : 24 ,
+	  "totalTrackCount" : 50,
+	  "duration" : 1200 ,
+	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
+	}
 
 
 
