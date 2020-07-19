@@ -333,6 +333,31 @@
 	}
 
 
+ ,
+{ "title" : "💥   فضل العلم والعلماء     ←" ,
+	  "album" : "ghayth",
+	  "artist" : "    الشيخ د. محمد غيث    ",
+	  "genre" :  "   الشيخ د. محمد غيث",
+	  "source" : "sh-d-mohamed-ghaith-fdal-3lm-3lmah.mp3",
+	  "image" : "ghayth.jpg",
+	  "trackNumber" : 18 ,
+	  "totalTrackCount" : 50,
+	  "duration" : 1260 ,
+	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
+	}
+
+ ,
+{ "title" : "💥    فضل العلم     ←" ,
+	  "album" : "ghayth",
+	  "artist" : "    الشيخ د. محمد غيث    ",
+	  "genre" :  "   الشيخ د. محمد غيث",
+	  "source" : "sh-d-mohamed-ghaith-fzal-al3lm.mp3",
+	  "image" : "ghayth.jpg",
+	  "trackNumber" : 19 ,
+	  "totalTrackCount" : 50,
+	  "duration" : 1440 ,
+	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
+	}
 
 
 
