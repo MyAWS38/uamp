@@ -359,9 +359,44 @@
 	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
 	}
 
+ ,
+{ "title" : "💥     فضل الشهادة في سبيل الله      ←" ,
+	  "album" : "ghayth",
+	  "artist" : "    الشيخ د. محمد غيث    ",
+	  "genre" :  "   الشيخ د. محمد غيث",
+	  "source" : "sh-mohammed-ghaith-fadl-ashahada.mp3",
+	  "image" : "ghayth.jpg",
+	  "trackNumber" : 20 ,
+	  "totalTrackCount" : 50,
+	  "duration" : 1320 ,
+	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
+	}
 
 
-
+ ,
+{ "title" : "💥      عجبا لأمر المؤمن       ←" ,
+	  "album" : "ghayth",
+	  "artist" : "    الشيخ د. محمد غيث    ",
+	  "genre" :  "   الشيخ د. محمد غيث",
+	  "source" : "sh-mohammad-ghaith-khutbat-3ajaban-li-amr-almomin_25-10-2019.mp3",
+	  "image" : "ghayth.jpg",
+	  "trackNumber" : 21 ,
+	  "totalTrackCount" : 50,
+	  "duration" : 1000 ,
+	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
+	}
+ ,
+{ "title" : "💥       على ضياع العلم فليبك من كان باكيا        ←" ,
+	  "album" : "ghayth",
+	  "artist" : "    الشيخ د. محمد غيث    ",
+	  "genre" :  "   الشيخ د. محمد غيث",
+	  "source" : "sh-d-mohamed-ghaith-3lh-zeah-al3lm-faleabake-man-kanh-bakean.mp3",
+	  "image" : "ghayth.jpg",
+	  "trackNumber" : 22 ,
+	  "totalTrackCount" : 50,
+	  "duration" : 1380 ,
+	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
+	}
 
 
 
