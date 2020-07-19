@@ -447,7 +447,18 @@
 	  "duration" : 1440 ,
 	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
 	}
-
+ ,
+{ "title" : "💥         التَّنْفِيرُ مِنَ الدَّينِ ←" ,
+	  "album" : "ghayth",
+	  "artist" : "    الشيخ د. محمد غيث    ",
+	  "genre" :  "   الشيخ د. محمد غيث",
+	  "source" : "sh-d-mohamed-ghaith-tanfer-man-aldian.mp3",
+	  "image" : "ghayth.jpg",
+	  "trackNumber" : 27 ,
+	  "totalTrackCount" : 50,
+	  "duration" : 840 ,
+	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
+	}
 
 
 
