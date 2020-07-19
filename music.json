@@ -893,31 +893,31 @@
 
 
 
-
-,
-{ "title" : "💥  الفاتحة ←" ,
-	  "album" : "coran",
-	  "artist" : "    السديس و الشريم    ",
-	  "genre" :  "    السديس و الشريم ",
-	  "source" : "001.mp3",
-	  "image" : "",
-	  "trackNumber" : 1,
-	  "totalTrackCount" : 150,
-	  "duration" : 40 ,
-	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
-	}
 ,
 { "title" : "💥  البقرة ←" ,
 	  "album" : "coran",
 	  "artist" : "    السديس و الشريم    ",
 	  "genre" :  "    السديس و الشريم ",
 	  "source" : "002.mp3",
-	  "image" : "",
+	  "image" : "soudais.png",
 	  "trackNumber" : 2,
 	  "totalTrackCount" : 150,
 	  "duration" : 5400 ,
 	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
 	}
+,
+{ "title" : "💥  الفاتحة ←" ,
+	  "album" : "coran",
+	  "artist" : "    السديس و الشريم    ",
+	  "genre" :  "    السديس و الشريم ",
+	  "source" : "001.mp3",
+	  "image" : "soudais.png",
+	  "trackNumber" : 1,
+	  "totalTrackCount" : 150,
+	  "duration" : 40 ,
+	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
+	}
+
 
 
 ]}
