@@ -940,7 +940,7 @@
 	  "genre" :  "    السديس و الشريم ",
 	  "source" : "001.mp3",
 	  "image" : "soudais.png",
-	  "trackNumber" : ,
+	  "trackNumber" : 1,
 	  "totalTrackCount" : 150,
 	  "duration" : 40 ,
 	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
@@ -954,7 +954,7 @@
 	  "genre" :  "    السديس و الشريم ",
 	  "source" : "002.mp3",
 	  "image" : "soudais.png",
-	  "trackNumber" : ,
+	  "trackNumber" : 2,
 	  "totalTrackCount" : 150,
 	  "duration" : 5400 ,
 	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
@@ -981,31 +981,13 @@
 	  "genre" :  "    السديس و الشريم ",
 	  "source" : "004.mp3",
 	  "image" : "soudais.png",
-	  "trackNumber" : ,
+	  "trackNumber" : 4,
 	  "totalTrackCount" : 150,
 	  "duration" : 3240 ,
 	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
 	}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ,
+
 	{ "title" : "Jazz in Paris",
 	  "album" : "Jazz & Blues",
 	  "artist" : "Media Right Productions",
