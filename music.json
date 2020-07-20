@@ -933,50 +933,56 @@
 
 
 ,
-{ "title" : "02" ,
-	  "album" : "coran",
-	  "artist" : "    السديس و الشريم    ",
-	  "genre" :  "    السديس و الشريم ",
-	  "source" : "002.mp3",
-	  "image" : "soudais.png",
-	  "trackNumber" : 2,
-	  "totalTrackCount" : 150,
-	  "duration" : 5400 ,
-	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
-	}
-,
-{ "title" : "01" ,
+{ "title" : "💥 01 Al Fatiha ←" ,
+
 	  "album" : "coran",
 	  "artist" : "    السديس و الشريم    ",
 	  "genre" :  "    السديس و الشريم ",
 	  "source" : "001.mp3",
 	  "image" : "soudais.png",
 	  "trackNumber" : 1,
-	  "totalTrackCount" : 150,
+	  "totalTrackCount" : 4,
 	  "duration" : 40 ,
 	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
 	}
 ,
-{ "title" : "03" ,
+
+{ "title" : "💥 02 Al Baqara ←" ,
+
+	  "album" : "coran",
+	  "artist" : "    السديس و الشريم    ",
+	  "genre" :  "    السديس و الشريم ",
+	  "source" : "002.mp3",
+	  "image" : "soudais.png",
+	  "trackNumber" : 2,
+	  "totalTrackCount" : 4,
+	  "duration" : 5400 ,
+	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
+	}
+,
+{ "title" : "💥 03 Al Imran ←" ,
+
 	  "album" : "coran",
 	  "artist" : "    السديس و الشريم    ",
 	  "genre" :  "    السديس و الشريم ",
 	  "source" : "003.mp3",
 	  "image" : "soudais.png",
 	  "trackNumber" : 3,
-	  "totalTrackCount" : 150,
+	  "totalTrackCount" : 4,
 	  "duration" : 3000 ,
 	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
 	}
 ,
-{ "title" : "04" ,
+
+{ "title" : "💥 04 Al nissa ←" ,
+
 	  "album" : "coran",
 	  "artist" : "    السديس و الشريم    ",
 	  "genre" :  "    السديس و الشريم ",
 	  "source" : "004.mp3",
 	  "image" : "soudais.png",
 	  "trackNumber" : 4,
-	  "totalTrackCount" : 150,
+	  "totalTrackCount" : 4,
 	  "duration" : 3240 ,
 	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
 	}
