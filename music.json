@@ -1218,6 +1218,66 @@
 	  "duration" : 3600 ,
 	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
 	}
+
+,
+
+{ "title" : "💥 (1) الحروب الصليبية ←" ,
+	  "album" : "tarikh_horrob",
+	  "artist" : "    د. حمد بن يوسف الدعيج    ",
+	  "genre" :  "    د. حمد بن يوسف الدعيج ",
+	  "source" : "horrob_daej_01.ogg",
+	  "image" : "daeij.jpg",
+	  "trackNumber" : 1,
+	  "totalTrackCount" : 4 ,
+	  "duration" : 6000 ,
+	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
+	}
+,
+{ "title" : "💥 (2) الحروب الصليبية ←" ,
+	  "album" : "tarikh_horrob",
+	  "artist" : "    د. حمد بن يوسف الدعيج    ",
+	  "genre" :  "    د. حمد بن يوسف الدعيج ",
+	  "source" : "horrob_daej_02.ogg",
+	  "image" : "daeij.jpg",
+	  "trackNumber" : 1,
+	  "totalTrackCount" : 4 ,
+	  "duration" : 6000 ,
+	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
+	}
+,
+
+{ "title" : "💥 (3) الحروب الصليبية ←" ,
+	  "album" : "tarikh_horrob",
+	  "artist" : "    د. حمد بن يوسف الدعيج    ",
+	  "genre" :  "    د. حمد بن يوسف الدعيج ",
+	  "source" : "horrob_daej_03.mp3",
+	  "image" : "daeij.jpg",
+	  "trackNumber" : 1,
+	  "totalTrackCount" : 4 ,
+	  "duration" : 6050 ,
+	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
+	}
+,
+
+{ "title" : "💥 (4) الحروب الصليبية ←" ,
+	  "album" : "tarikh_horrob",
+	  "artist" : "    د. حمد بن يوسف الدعيج    ",
+	  "genre" :  "    د. حمد بن يوسف الدعيج ",
+	  "source" : "horrob_daej_04.ogg",
+	  "image" : "daeij.jpg",
+	  "trackNumber" : 1,
+	  "totalTrackCount" : 4 ,
+	  "duration" : 6000 ,
+	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
+	}
+
+
+
+
+
+
+
+
 ]}
 
 
