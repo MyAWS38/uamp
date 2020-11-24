@@ -1284,6 +1284,7 @@
 	  "totalTrackCount" : 20 ,
 	  "duration" : 3600 ,
 	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
+
 	}
 
 ,
@@ -1299,7 +1300,18 @@
 	  "duration" : 3600 ,
 	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
 	}
-	
+,
+
+{ "title" : "💥     مقبرة #الغزاة : مصر ←" ,
+	  "album" : "tarikh_europe",
+	  "artist" : "    تاريخ اروباالدعيج    ",
+	  "genre" :  "    تاريخ اروبا الدعيج ",
+	  "source" : "egypte_maqbarah.mp3",
+	  "image" : "daeij.jpg",
+	  "trackNumber" : 3,
+	  "totalTrackCount" : 20 ,
+	  "duration" : 3600 ,
+	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
 
 
 ]}
