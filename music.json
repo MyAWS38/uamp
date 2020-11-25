@@ -1330,7 +1330,34 @@
 	  
 	  }
 	  
+,
 
+{ "title" : "💥      الإعصار المغولي ←" ,
+	  "album" : "tarikh_europe",
+	  "artist" : "    تاريخ اروباالدعيج    ",
+	  "genre" :  "    تاريخ اروبا الدعيج ",
+	  "source" : "mangol.mp3",
+	  "image" : "daeij.jpg",
+	  "trackNumber" : 5,
+	  "totalTrackCount" : 20 ,
+	  "duration" : 3600 ,
+	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
+	  
+	  }
+,
+
+{ "title" : "💥     محاكمة الجثة ←" ,
+	  "album" : "tarikh_europe",
+	  "artist" : "    تاريخ اروباالدعيج    ",
+	  "genre" :  "    تاريخ اروبا الدعيج ",
+	  "source" : "cadavre.mp3",
+	  "image" : "daeij.jpg",
+	  "trackNumber" : 6,
+	  "totalTrackCount" : 20 ,
+	  "duration" : 3600 ,
+	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
+	  
+	  }
 ]}
 
 
