@@ -1363,10 +1363,10 @@
 	  
 	  ,
 
-{ "title" : "💥     رقيةالغريب الموصلي  ←" ,
+{ "title" : "💥    1 رقيةالغريب الموصلي  ←" ,
 	  "album" : "sihr",
-	  "artist" : "    رقية شرعية    ",
-	  "genre" :  "    رقية شرعية ",
+	  "artist" : "   1 رقية شرعية    ",
+	  "genre" :  "   1 رقية شرعية ",
 	  "source" : "sihr.mp3",
 	  "image" : "sihr.jpg",
 	  "trackNumber" : 1,
@@ -1375,6 +1375,21 @@
 	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
 	  
 	  }
+	  	  ,
+
+{ "title" : "💥     2 رقيةالغريب الموصلي  ←" ,
+	  "album" : "sihr",
+	  "artist" : "   2 رقية شرعية    ",
+	  "genre" :  "   2 رقية شرعية ",
+	  "source" : "sihr2.mp3",
+	  "image" : "sihr.jpg",
+	  "trackNumber" : 2,
+	  "totalTrackCount" : 20 ,
+	  "duration" : 3600 ,
+	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
+	  
+	  }
+	  
 	  
 ]}
 
