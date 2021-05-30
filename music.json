@@ -967,6 +967,62 @@
 	}
 
 ,
+
+
+
+{ "title" : "💥   (11) سورة هود ←" ,
+	  "album" : "coran",
+	  "artist" : "    السديس و الشريم    ",
+	  "genre" :  "    السديس و الشريم ",
+	  "source" : "011-Hud.ogg",
+	  "image" : "soudais.png",
+	  "trackNumber" : 11,
+	  "totalTrackCount" : 150,
+	  "duration" : 1800 ,
+	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
+	}
+
+,
+{ "title" : "💥   (19) سورة مريم ←" ,
+	  "album" : "coran",
+	  "artist" : "    السديس و الشريم    ",
+	  "genre" :  "    السديس و الشريم ",
+	  "source" : "019-Maryam.ogg",
+	  "image" : "soudais.png",
+	  "trackNumber" : 19,
+	  "totalTrackCount" : 150,
+	  "duration" : 900 ,
+	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
+	}
+
+,
+{ "title" : "💥   (28) سورة القصص ←" ,
+	  "album" : "coran",
+	  "artist" : "    السديس و الشريم    ",
+	  "genre" :  "    السديس و الشريم ",
+	  "source" : "028-Al-Qasas.ogg",
+	  "image" : "soudais.png",
+	  "trackNumber" : 28,
+	  "totalTrackCount" : 150,
+	  "duration" : 1900 ,
+	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
+	}
+
+,
+{ "title" : "💥   (26) سورة الشعراء ←" ,
+	  "album" : "coran",
+	  "artist" : "    السديس و الشريم    ",
+	  "genre" :  "    السديس و الشريم ",
+	  "source" : "026-Ash-Shuara.ogg",
+	  "image" : "soudais.png",
+	  "trackNumber" : 26,
+	  "totalTrackCount" : 150,
+	  "duration" : 1300 ,
+	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
+	}
+
+,
+
 { "title" : "💥 سورة المؤمنون ←" ,
 	  "album" : "coran",
 	  "artist" : "    السديس و الشريم    ",
