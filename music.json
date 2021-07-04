@@ -1009,6 +1009,47 @@
 	}
 
 ,
+{ "title" : "💥    (47) سورة محمد ←" ,
+	  "album" : "coran",
+	  "artist" : "    السديس و الشريم    ",
+	  "genre" :  "    السديس و الشريم ",
+	  "source" : "047-Muhammad.ogg",
+	  "image" : "soudais.png",
+	  "trackNumber" : 47,
+	  "totalTrackCount" : 150,
+	  "duration" : 500 ,
+	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
+	}
+
+,
+{ "title" : "💥    (46) سورة الأحقاف ←" ,
+	  "album" : "coran",
+	  "artist" : "    السديس و الشريم    ",
+	  "genre" :  "    السديس و الشريم ",
+	  "source" : "046-Al-Ahqaf.ogg",
+	  "image" : "soudais.png",
+	  "trackNumber" : 46,
+	  "totalTrackCount" : 150,
+	  "duration" : 600 ,
+	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
+	}
+
+,
+{ "title" : "💥    (45) سورة الجاثية  ←" ,
+	  "album" : "coran",
+	  "artist" : "    السديس و الشريم    ",
+	  "genre" :  "    السديس و الشريم ",
+	  "source" : "045-Al-Jathiya.ogg",
+	  "image" : "soudais.png",
+	  "trackNumber" : 46,
+	  "totalTrackCount" : 150,
+	  "duration" : 500 ,
+	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
+	}
+
+,
+
+
 { "title" : "💥   (26) سورة الشعراء ←" ,
 	  "album" : "coran",
 	  "artist" : "    السديس و الشريم    ",
