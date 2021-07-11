@@ -982,16 +982,50 @@
 	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
 	}
 
+
 ,
-{ "title" : "💥   (19) سورة مريم ←" ,
+
+
+
+{ "title" : "💥   (11) سورة هود ←" ,
 	  "album" : "coran",
 	  "artist" : "    السديس و الشريم    ",
 	  "genre" :  "    السديس و الشريم ",
-	  "source" : "019-Maryam.ogg",
+	  "source" : "011-Hud.ogg",
 	  "image" : "soudais.png",
-	  "trackNumber" : 19,
+	  "trackNumber" : 11,
 	  "totalTrackCount" : 150,
-	  "duration" : 900 ,
+	  "duration" : 1800 ,
+	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
+	}
+
+
+    ,
+
+
+
+{ "title" : "💥   052-At-Tur.ogg ←" ,
+	  "album" : "coran",
+	  "artist" : "    السديس و الشريم    ",
+	  "genre" :  "    السديس و الشريم ",
+	  "source" : "052-At-Tur.ogg",
+	  "image" : "soudais.png",
+	  "trackNumber" : 149,
+	  "totalTrackCount" : 150,
+	  "duration" : 300 ,
+	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
+	}
+
+,
+{ "title" : "💥   051-Adh-Dhariyat.ogg ←" ,
+	  "album" : "coran",
+	  "artist" : "    السديس و الشريم    ",
+	  "genre" :  "    السديس و الشريم ",
+	  "source" : "051-Adh-Dhariyat.ogg",
+	  "image" : "soudais.png",
+	  "trackNumber" : 148,
+	  "totalTrackCount" : 150,
+	  "duration" : 360 ,
 	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
 	}
 
