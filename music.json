@@ -1661,6 +1661,30 @@
 		  "duration" : 6000 ,
 		  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
 		}
+		,
+		{ "title" : "💥  سورة الفاتحة   " ,
+		"album" : "haram",
+		"artist" : "      مصحف الحرم المكي الشريف    ",
+		"genre" :   "      مصحف الحرم المكي الشريف    ",
+		"source" : "haram_001.mp3",
+		"image" : "soudais.jpg",
+		"trackNumber" : 1,
+		"totalTrackCount" : 114 ,
+		"duration" : 6000 ,
+		"site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
+	  }		,
+	  { "title" : "💥 سورة الأنفال  " ,
+	  "album" : "haram",
+	  "artist" : "      مصحف الحرم المكي الشريف    ",
+	  "genre" :   "      مصحف الحرم المكي الشريف    ",
+	  "source" : "haram_009.mp3",
+	  "image" : "soudais.jpg",
+	  "trackNumber" : 2,
+	  "totalTrackCount" : 114 ,
+	  "duration" : 6000 ,
+	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
+	}
+  
 	
 		
 		
