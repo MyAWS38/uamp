@@ -1695,7 +1695,18 @@
 	"totalTrackCount" : 114 ,
 	"duration" : 2400 ,
 	"site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
-  }
+  }	,
+  { "title" : "💥 سورة الصف   " ,
+  "album" : "haram",
+  "artist" : "      مصحف الحرم المكي الشريف    ",
+  "genre" :   "      مصحف الحرم المكي الشريف    ",
+  "source" : "haram_060.mp3",
+  "image" : "soudais.jpg",
+  "trackNumber" : 114  ,
+  "totalTrackCount" : 114 ,
+  "duration" : 240  ,
+  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
+}
   
 	
 		
