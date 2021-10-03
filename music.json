@@ -1670,7 +1670,7 @@
 		"image" : "soudais.jpg",
 		"trackNumber" : 1,
 		"totalTrackCount" : 114 ,
-		"duration" : 6000 ,
+		"duration" : 50 ,
 		"site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
 	  }		,
 	  { "title" : "💥 سورة الأنفال  " ,
@@ -1681,9 +1681,21 @@
 	  "image" : "soudais.jpg",
 	  "trackNumber" : 2,
 	  "totalTrackCount" : 114 ,
-	  "duration" : 6000 ,
+	  "duration" : 2400 ,
 	  "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
 	}
+	,
+	{ "title" : "💥سورة الممتحنة   " ,
+	"album" : "haram",
+	"artist" : "      مصحف الحرم المكي الشريف    ",
+	"genre" :   "      مصحف الحرم المكي الشريف    ",
+	"source" : "haram_060.mp3",
+	"image" : "soudais.jpg",
+	"trackNumber" : 360 ,
+	"totalTrackCount" : 114 ,
+	"duration" : 2400 ,
+	"site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
+  }
   
 	
 		
