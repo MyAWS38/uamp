@@ -1712,7 +1712,29 @@
   "duration" : 240  ,
   "site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
 }
-  
+,
+{ "title" : "💥سورة المجادلة   " ,
+"album" : "haram",
+"artist" : "      مصحف الحرم المكي الشريف    ",
+"genre" :   "      مصحف الحرم المكي الشريف    ",
+"source" : "haram_061.mp3",
+"image" : "soudais.jpg",
+"trackNumber" : 61 ,
+"totalTrackCount" : 114 ,
+"duration" : 420 ,
+"site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
+}	,
+{ "title" : "💥سورة الحشر  " ,
+"album" : "haram",
+"artist" : "      مصحف الحرم المكي الشريف    ",
+"genre" :   "      مصحف الحرم المكي الشريف    ",
+"source" : "haram_059.mp3",
+"image" : "soudais.jpg",
+"trackNumber" : 59 ,
+"totalTrackCount" : 114 ,
+"duration" : 420 ,
+"site" : "https://raw.githubusercontent.com/MyAWS38/uamp/master"
+}	
 	
 		
 		
